@@ -6,7 +6,7 @@ Super Oiram is a personal project I worked on to refine my skills in creating a 
 
 ## Physics
 
-- Rectangle collision algorithm
+- My own rectangle collision algorithm
 - Dynamically sized chunking algorithm to optimize collision checks
 - Collisions know which side of a block it occured on
 
